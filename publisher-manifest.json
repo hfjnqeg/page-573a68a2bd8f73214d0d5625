@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2967a80ae87ad31030119b09",
+  "owner": "hfjnqeg",
+  "repo": "page-573a68a2bd8f73214d0d5625",
+  "title": "Nicee加速(Nicee)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "573a68a2bd8f73214d0d5625",
+      "a": "Nicee加速(Nicee)",
+      "b": "2027官方最新地址导航",
+      "entity": "Nicee加速(Nicee)",
+      "brand": "Nicee加速(Nicee)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "995d16f85313c157931a77471a772e53c7a552ad06ee199cfe970d6f71b1ce7b",
+      "content": {
+        "primary_entity": "Nicee加速(Nicee)",
+        "keyword1": "Nicee加速(Nicee)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，再导入订阅链接即可开始使用。",
+          "AI_CLIENTS_TITLE": "客户端选择与订阅导入",
+          "AI_CLOSING_TEXT": "按设备与流量需求挑选合适套餐，导入订阅就能让网络连接更顺畅。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻出发",
+          "AI_DESCRIPTION": "，围绕套餐选择、设备数量与订阅周期展开。基础版每月 100GB 流量、3 台设备在线，适合单人日常使用；旗舰版每月 300GB、5 台设备，并带 IPLC 专线优化；团队版每月 1000GB、20 台设备，支持企业定制路由。按年付可节省开支，订阅导入后即可在对应客户端配置使用。",
+          "AI_FEATURES_INTRO": "从流量额度、设备上限与线路规格三个角度，快速分辨套餐差异。",
+          "AI_FEATURES_TITLE": "套餐核心差异",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 覆盖浏览与视频；旗舰版 300GB 兼顾多设备；团队版 1000GB 适合多人共享。",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台设备在线数随版本递增，多设备家庭或小型团队可优先考虑旗舰版与团队版。",
+          "AI_FEATURE_TEXT_3": "旗舰版配备 IPLC 专线并优化游戏延迟，团队版提供 VIP 高带宽节点，按用途选择更合适。",
+          "AI_FEATURE_TITLE_1": "流量额度梯度",
+          "AI_FEATURE_TITLE_2": "设备在线数量",
+          "AI_FEATURE_TITLE_3": "线路与节点规格",
+          "AI_GUIDE_INTRO": "先确认设备数量与月流量需求，再按客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "Nicee加速提供基础版、旗舰版与团队版三档套餐，覆盖单人、多设备与团队场景，按需选择并导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "三档套餐匹配不同设备规模",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，3 台设备在线",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线，游戏延迟优化",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版适合单人轻量使用；旗舰版面向多设备与游戏场景；团队版满足高流量多人共享。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据同时在线的设备数量与每月流量消耗，在基础版、旗舰版、团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量、流量额度与线路类型，确认是否满足日常场景。",
+          "AI_STEP_TEXT_3": "参照对应客户端文档导入订阅链接，在手机、电脑或路由器上完成配置。",
+          "AI_STEP_TITLE_1": "确认使用需求",
+          "AI_STEP_TITLE_2": "核对套餐适配",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "Nicee加速套餐速览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Nicee加速支持哪些设备导入订阅？",
+          "AI_FAQ_ANSWER_1": "订阅可通过常见代理客户端导入，手机、电脑与路由器设备各有对应客户端可供选择，具体以客户端说明为准。",
+          "AI_FAQ_QUESTION_2": "三档套餐的设备数量限制是多少？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。选择前建议统计常用设备数量，避免超限影响使用。",
+          "AI_FAQ_QUESTION_3": "按年付比按月付便宜多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。年付相当于按月折算更低的均价。",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_4": "IPLC 专线针对游戏与实时应用优化延迟，适合对网络抖动敏感的使用场景，同时支持流媒体原生解锁。",
+          "AI_FAQ_QUESTION_5": "订阅到期后如何续费？",
+          "AI_FAQ_ANSWER_5": "可在订阅管理页面选择相同或更高档位续费，续费后原有配置通常可以继续使用，具体以订阅状态页显示为准。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zhthckt.cn",
+    "host": "zhthckt.cn"
+  },
+  "file_hashes": {
+    "index.html": "2a29217999dd42f279bbfd246a1c9ef9dfa956b344d5e5c250977cffdc90bd15",
+    "sitemap.xml": "ecc52d1437f06aa0e1fca81b8f157366c94131eee5040560edda28da37d4ab73",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0403e87cd177def667d28b767db2e3fc450a8e2c66144c6835e594abd28ff5f8",
+    "robots.txt": "5804d04833e6767b4b92f8800794ded04e3c971b21d3d1f89fdfcdb0158daafd",
+    "b10dd0d75e9f9885ba059f1ff21864f3.txt": "eda8891dacb7799a987c4eb7780cbc2fc3c1dce9db8452e79818e367280fc9a0"
+  },
+  "revision": "d88c54c56710df2491fd966243a6aabd69caff2ed64d2b965e19d634ad0d0020"
+}
